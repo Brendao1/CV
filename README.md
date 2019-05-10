@@ -2,7 +2,13 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
-I am an Analyst and Programmer with 5 years’ experience providing strategic insight. I am experienced in quantitative and qualitative research methodologies, as well as project management, client and stakeholder engagement, data gathering and analysis, report writing and public speaking. My grasp of market fundamentals makes me extremely adept at deriving insight and I have helped diverse high-profile clients to understand opportunities and challenges in finance & investing, impact investing, family business strategy and more.
+I am a full stack software developer specialising in object-oriented programming, test-driven development, and scrum/agile workflow. My background is a mix of Consulting, Research and Finance.
+
+Having graduated Makers Academy, a selective coding bootcamp in London, I'm looking for a role in a company that extends and develops my programming capability. 
+
+Just before Makers I spent 2 years volunteering and farming. I learned to build solar panel chargers, and helped enterprising individuals build/maintain a self-sustainable lifestyle. 
+
+Prior to this, I worked for 5 years as an Analyst and Project Manager in London. My thought-leadership content helped diverse high-profile clients to understand opportunities and challenges in finance & investing, impact investing, family business strategy, and more.
 
 ## <a id="projects">Projects</a>
 
