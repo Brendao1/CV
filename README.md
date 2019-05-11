@@ -95,4 +95,4 @@ F1F9 Spreadsheet Engineering (2015)
 
 ## Hobbies
 
-Coding, yoga, fitness and nature - always :yellow_heart:
+Coding, yoga, fitness and nature :yellow_heart:
