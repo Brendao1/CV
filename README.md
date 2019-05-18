@@ -6,7 +6,7 @@ I am a full stack software developer specialising in object-oriented programming
 
 Having graduated Makers Academy, a selective coding bootcamp in London, I'm looking for a role in a company that extends and develops my programming capability. 
 
-Just before Makers I spent 2 years volunteering and farming. I learned to build solar panel chargers, and helped enterprising individuals build/maintain a self-sustainable lifestyle. 
+Before Makers I spent 2 years volunteering and farming. I learned to build solar panel chargers and helped enterprising individuals build/maintain a self-sustainable lifestyle. 
 
 Prior to this, I worked for 5 years as an Analyst and Project Manager in London. My thought-leadership content helped diverse high-profile clients to understand opportunities and challenges in finance & investing, impact investing, family business strategy, and more.
 
