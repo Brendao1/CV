@@ -6,7 +6,7 @@ I am a full stack software developer specialising in object-oriented programming
 
 Having graduated Makers Academy, a selective coding bootcamp in London, I'm looking for a role in a company that extends and develops my programming capability. 
 
-Before Makers I worked for 5 years as a Research Analyst in London. My thought-leadership content helped diverse high-profile clients to understand opportunities and challenges in finance & investing, impact investing, family business strategy, and more.
+Before Makers I worked for 5 years as a Research Analyst in London. My thought leadership content helped diverse clients to understand opportunities and challenges in finance & investing, impact investing, family business strategy, and more.
 
 ## <a id="projects">Projects</a>
 
